@@ -1,0 +1,178 @@
+# Log of disabled packages and commands
+# Format:
+# [TIMESTAMP] ACTION: <command run>
+# UNDO: <adb shell pm enable <package>>
+
+# --- No packages have been disabled yet ---
+
+[2026-11-10 00:35:46] ACTION: pm disable-user --user 0 com.amazon.device.telemetry.emitter
+UNDO: pm enable com.amazon.device.telemetry.emitter
+
+[2026-11-10 00:35:46] ACTION: pm disable-user --user 0 com.amazon.client.metrics.api
+UNDO: pm enable com.amazon.client.metrics.api
+
+[2026-11-10 00:35:46] ACTION: pm disable-user --user 0 com.amazon.wirelessmetrics.service
+UNDO: pm enable com.amazon.wirelessmetrics.service
+
+[2026-11-10 00:35:46] ACTION: pm disable-user --user 0 com.amazon.dp.logger
+UNDO: pm enable com.amazon.dp.logger
+
+[2026-11-10 00:35:46] ACTION: pm disable-user --user 0 com.amazon.logan
+UNDO: pm enable com.amazon.logan
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.ssm
+UNDO: pm enable com.amazon.ssm
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.ssmsys
+UNDO: pm enable com.amazon.ssmsys
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.perfc
+UNDO: pm enable com.amazon.perfc
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.perfcollection
+UNDO: pm enable com.amazon.perfcollection
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.neo.minerva
+UNDO: pm enable com.amazon.neo.minerva
+
+[2026-11-10 00:35:47] ACTION: pm disable-user --user 0 com.amazon.neo.minerva.logcat
+UNDO: pm enable com.amazon.neo.minerva.logcat
+
+[2026-11-10 00:35:48] ACTION: pm disable-user --user 0 com.android.traceur
+UNDO: pm enable com.android.traceur
+
+[2026-11-10 00:35:48] ACTION: pm disable-user --user 0 com.amazon.hybridadidservice
+UNDO: pm enable com.amazon.hybridadidservice
+
+[2026-11-10 00:35:48] ACTION: pm disable-user --user 0 com.amazon.media.recommendations
+UNDO: pm enable com.amazon.media.recommendations
+
+[2026-11-10 00:35:49] ACTION: pm disable-user --user 0 com.amazon.shoptv.client
+UNDO: pm enable com.amazon.shoptv.client
+
+[2026-11-10 00:35:49] ACTION: pm disable-user --user 0 com.amazon.shoptv.firetv.client
+UNDO: pm enable com.amazon.shoptv.firetv.client
+
+[2026-11-10 00:35:49] ACTION: pm disable-user --user 0 com.amazon.gamehub
+UNDO: pm enable com.amazon.gamehub
+
+[2026-11-10 00:35:49] ACTION: pm disable-user --user 0 com.amazon.minitv.android.app
+UNDO: pm enable com.amazon.minitv.android.app
+
+[2026-11-10 00:35:50] ACTION: pm disable-user --user 0 com.amazon.bueller.photos
+UNDO: pm enable com.amazon.bueller.photos
+
+[2026-11-10 00:35:50] ACTION: pm disable-user --user 0 com.amazon.bueller.music
+UNDO: pm enable com.amazon.bueller.music
+
+[2026-11-10 00:35:51] ACTION: pm disable-user --user 0 com.amazon.tmm.tutorial
+UNDO: pm enable com.amazon.tmm.tutorial
+
+[2026-11-10 00:35:52] ACTION: pm disable-user --user 0 com.amazon.storm.lightning.tutorial
+UNDO: pm enable com.amazon.storm.lightning.tutorial
+
+[2026-11-10 00:35:52] ACTION: pm disable-user --user 0 com.amazon.dummy.alarmclock
+UNDO: pm enable com.amazon.dummy.alarmclock
+
+[2026-11-10 00:35:52] ACTION: pm disable-user --user 0 com.amazon.dummy.calendar
+UNDO: pm enable com.amazon.dummy.calendar
+
+[2026-11-10 00:35:53] ACTION: pm disable-user --user 0 com.amazon.dummy.contacts
+UNDO: pm enable com.amazon.dummy.contacts
+
+[2026-11-10 00:35:53] ACTION: pm disable-user --user 0 com.amazon.dummy.gallery
+UNDO: pm enable com.amazon.dummy.gallery
+
+[2026-11-10 00:35:53] ACTION: pm disable-user --user 0 com.amazon.dummy.music
+UNDO: pm enable com.amazon.dummy.music
+
+[2026-11-10 00:35:53] ACTION: pm disable-user --user 0 com.amazon.dummy.settings
+UNDO: pm enable com.amazon.dummy.settings
+
+[2026-11-10 00:35:54] ACTION: pm disable-user --user 0 com.amazon.dummy.soundpicker
+UNDO: pm enable com.amazon.dummy.soundpicker
+
+[2026-11-10 00:35:55] ACTION: pm disable-user --user 0 com.android.protips
+UNDO: pm enable com.android.protips
+
+[2026-11-10 00:35:55] ACTION: pm disable-user --user 0 com.amazon.tv.releasenotes
+UNDO: pm enable com.amazon.tv.releasenotes
+
+[2026-11-10 00:35:55] ACTION: pm disable-user --user 0 com.amazon.tv.earlyaccess
+UNDO: pm enable com.amazon.tv.earlyaccess
+
+[2026-11-10 00:35:55] ACTION: pm disable-user --user 0 com.amazon.tv.easyupgrade
+UNDO: pm enable com.amazon.tv.easyupgrade
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.aca
+UNDO: pm enable com.amazon.aca
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.alexa.datastore.app
+UNDO: pm enable com.amazon.alexa.datastore.app
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.alexa.externalmediaplayer.fireos
+UNDO: pm enable com.amazon.alexa.externalmediaplayer.fireos
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.alexadirectivebrokerservice
+UNDO: pm enable com.amazon.alexadirectivebrokerservice
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.alexamediaplayer.runtime.ftv
+UNDO: pm enable com.amazon.alexamediaplayer.runtime.ftv
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.tv.alexaalerts
+UNDO: pm enable com.amazon.tv.alexaalerts
+
+[2026-11-10 00:35:56] ACTION: pm disable-user --user 0 com.amazon.tv.alexanotifications
+UNDO: pm enable com.amazon.tv.alexanotifications
+
+[2026-11-10 00:35:57] ACTION: pm disable-user --user 0 com.amazon.aria
+UNDO: pm enable com.amazon.aria
+
+[2026-11-10 00:35:57] ACTION: pm disable-user --user 0 com.amazon.vizzini
+UNDO: pm enable com.amazon.vizzini
+
+[2026-11-10 00:35:57] ACTION: pm disable-user --user 0 com.amazon.ftv.screensaver
+UNDO: pm enable com.amazon.ftv.screensaver
+
+[2026-11-10 00:35:57] ACTION: pm disable-user --user 0 com.amazon.tv.ftvambient
+UNDO: pm enable com.amazon.tv.ftvambient
+
+[2026-11-10 00:35:58] ACTION: pm disable-user --user 0 com.amazon.whisperplay.contracts
+UNDO: pm enable com.amazon.whisperplay.contracts
+
+[2026-11-10 00:35:58] ACTION: pm disable-user --user 0 com.amazon.whisperplay.service.install
+UNDO: pm enable com.amazon.whisperplay.service.install
+
+[2026-11-10 00:35:59] ACTION: pm disable-user --user 0 com.amazon.awvflingreceiver
+UNDO: pm enable com.amazon.awvflingreceiver
+
+[2026-11-10 00:35:59] ACTION: pm disable-user --user 0 com.amazon.cast.sink
+UNDO: pm enable com.amazon.cast.sink
+
+[2026-11-10 00:35:59] ACTION: pm disable-user --user 0 com.amazon.dialservice
+UNDO: pm enable com.amazon.dialservice
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tv.forcedotaupdater.v2
+UNDO: pm enable com.amazon.tv.forcedotaupdater.v2
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.uxnotification
+UNDO: pm enable com.amazon.uxnotification
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tv.notificationcenter
+UNDO: pm enable com.amazon.tv.notificationcenter
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.smarthomemapviewapp
+UNDO: pm enable com.amazon.smarthomemapviewapp
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tv.matter
+UNDO: pm enable com.amazon.tv.matter
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tv.mattercohost
+UNDO: pm enable com.amazon.tv.mattercohost
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tv.livetv
+UNDO: pm enable com.amazon.tv.livetv
+
+[2026-11-10 00:36:00] ACTION: pm disable-user --user 0 com.amazon.tifobserver
+UNDO: pm enable com.amazon.tifobserver
+
