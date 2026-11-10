@@ -1,0 +1,15 @@
+<resources>
+    <!-- Brand colors: dark + cyan/purple like Netflix/Disney+ -->
+    <color name="background">#08080F</color>
+    <color name="card_bg">#12121E</color>
+    <color name="accent_cyan">#00D4FF</color>
+    <color name="accent_purple">#9B59B6</color>
+    <color name="accent_pink">#E91E8C</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="overlay">#CC000000</color>
+    <color name="focused_border">#00D4FF</color>
+    <color name="row_header">#00D4FF</color>
+    <color name="search_bg">#1A1A2E</color>
+</resources>
+
